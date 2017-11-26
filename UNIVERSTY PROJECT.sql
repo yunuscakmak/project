@@ -1,4 +1,5 @@
 CREATE DATABASE `serhatyildiz`;
+CREATE DATABASE `Yunusemrecakmak`;
 
 CREATE TABLE `student`(
 
